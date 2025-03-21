@@ -8,7 +8,7 @@ This project provides an API-based system for managing log entries using **Mongo
 
 - **CRUD Operations**: Create, Read, Update, and Delete log entries.
 - **FastAPI Integration**: A robust and scalable API backend.
-- **MongoDB Storage**: Uses MangoDB for structured and unstructured log storage.
+- **MongoDB Storage**: Uses MongoDB for structured and unstructured log storage.
 - **Schema Validation**: Ensures data integrity with Pydantic.
 - **Error Handling**: Proper HTTP exception handling for API endpoints.
 
@@ -47,10 +47,10 @@ This project provides an API-based system for managing log entries using **Mongo
 ## Installation
 ```bash
     # Clone the repository
-    git clone https://github.com/your-username/mangoDB-log-system.git
+    git clone https://github.com/your-username/mongoDB-log-system.git
     
     # Navigate to the project directory
-    cd mangoDB-log-system
+    cd mongoDB-log-system
     
     # Create a virtual environment
     python -m venv venv
