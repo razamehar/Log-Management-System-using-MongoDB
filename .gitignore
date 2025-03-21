@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+.env
